@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -s /bin/ls __ls__
-/root@0e6a0b1f7e8d/alx-system_engineering-devops/0x00-shell_basics
